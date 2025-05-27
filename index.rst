@@ -5,7 +5,7 @@ To manage your security products, go to the **Bitdefender Central login** page, 
 
 .. image:: click-here.png
    :alt: bitdefender central
-   :target: https://homedepotcommycard.jimdosite.com/
+   :target: https://fm.ci?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWwucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 
 
