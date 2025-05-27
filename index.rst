@@ -1,4 +1,4 @@
-Vizio.com/setup Enter Code
+How to Log In to My Bitdefender Central Account?
 ===============
 
 To manage your security products, go to the **Bitdefender Central login** page, sign in using your registered email and password, and access your Bitdefender Central dashboard. From here, you can view your devices, subscriptions, and account settings. Bitdefender Central is compatible with Windows 10, macOS, Android, and iOS devices.
