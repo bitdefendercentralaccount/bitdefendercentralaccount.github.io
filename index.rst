@@ -61,7 +61,7 @@ Once logged in, the Bitdefender Central home page allows you to:
 How do I Manage My Subscriptions in Bitdefender Central?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 1. Open a web browser on your PC, Mac, or mobile device.
-2. Go to `central.bitdefender.com <https://central.bitdefender.com>`_.
+2. Go to **central.bitdefender.com**.
 3. Sign in with your Bitdefender Central email and password.
 4. On the home page, click **"My Subscriptions"** from the left-hand menu.
 5. In the *My Subscriptions* section, you can:
